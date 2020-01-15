@@ -1,5 +1,3 @@
-# PollsApp
-
 =====
 Polls
 =====
